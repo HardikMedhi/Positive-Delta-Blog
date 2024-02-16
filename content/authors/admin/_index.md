@@ -1,28 +1,28 @@
 ---
 # Display name
-title: 吳健雄
+title: Positive Delta
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Positive
+last_name: Delta
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🔭
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Let's learn to think critically 
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+#organizations:
+  #- name: ''
+  #  url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -31,18 +31,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:positive.delta.hm@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  - icon: brands/youtube
+    url: https://www.youtube.com/@PositiveDeltaHM
   - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.instagram.com/positivedeltahm
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+  #- icon: academicons/cv
+  #  url: uploads/resume.pdf
+  #  label: Download my resume
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
@@ -54,6 +56,10 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to Positive Delta! As time goes on, my unceasing exposure to scientific ideas has made me understand that mathematical equations, physical constants, chemical symbols, biological cycles and computational blocks are just random lines on a piece of paper. The human brains' unique ability of playing with abstract ideas was able to take those random lines and revolutionize today's world.
+
+And that is the goal of my channel and blog. I hope to initiate a conversation about fascinating ideas with the folk who share an interest. Let's learn how to think critically and independently.
+
+Oh, and my name is Hardik Medhi :D
+
+Stay Curious!
